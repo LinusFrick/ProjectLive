@@ -1,0 +1,86 @@
+
+
+Retrospective Speedboat Sprint 2
+ProjectLive1
+Gruppen sitter samlad. Vi liknar vårt projekt vid en båt som är på väg till en ö (vårt mål).Utan att prata med varandra, ska var och en besvara följande frågor. Skriv i 15 minuter (varken mer eller mindre).
+1.	Hur ser ön ut som vi är på väg mot?
+
+-	Jag är personligen väldigt nöjd med projektet och är glad över, att trots vi har haft en stor process med att mergea stora delar av slutprodukten och komplettera alla filer, så har detta grupparbetet gått väldigt bra.
+
+-	Ser inte riktigt ut som vi hade tänkt ifrån början. Men tycker att det har blivit ett bra resultat.  
+
+-	Ett färdigt projekt, där alla kriterier är fyllda. Välförberedda för en redovisning inför klassen.
+
+-	Det ser ganska bra ut, vi hade lite tufft sista tiden men jag gillade det. Det var roligt. vikunde klara en del som vi tyckte är viktigt att ska finnas i hemsida.
+
+-	Det ser bra ut, stabil grund känns att vi står fast på benen och kan klara projektet
+
+-	Målet har förändrats med projektet, vi är på väg att leverera en websida med färre funktioner än vi hade tänkt oss. Vi har ändå fått med en del väsentliga saker men vi har en funktion, kronologisk filtrering som vi måste skapa i projektet
+
+
+2.	Vad ger oss vind i seglen?
+
+-	Jag tror vi alla funnit varandra bättre med mer tid på kommunikation och samarbete kring varandra som håller arbetet konstant i rullning. Vi har en bättre flytande samarbete med att vi alla är lite mer familjära med varann.
+
+-	Våra möten ger oss ganska mycket energi och jag tycker även att när vi parkodar så blir det både enklare och roligare att koda. 
+
+-	Bra feedback från Manuel. Tydliga mål över vad vi har kvar att göra. Proaktivt förbereda oss inför redovisningen.
+
+-	Även det finns alltid problem men vi försökte lösa det på något sätt.
+
+-	Tydlig struktur,  när alla deltar samma dag. Att vi håller varandra uppdaterade.
+
+-	Bättre kommunikation, gruppdynamik och ansvar starkare lojalitet till gruppens uppgift.
+
+3.	Vad har vi för ankare som saktar ner oss?
+
+-	Vi prioriterade många olika moment vi ville a med i början, som vi sedan har varit tvungna att ta bort (”news”) vilket är något naturligt som tar plats under en utvecklings process, när saker gå upp förrän desto längre fram man kommer till deadline.
+
+-	Kommunikationen om när man kan komma på ett möte eller inte har inte alltid varit den bästa. Det har ibland gjort att vi har suttit och vänta på någon som inte dyker upp. Vid tillfälle har vi även väntat in någons kod vilket inte har varit så tidseffektivt. 
+
+-	Lösningen för filterfunktionen.
+
+-	Vi kunde veta varför är det så och kan bearbeta med han eller hon.
+
+-	Componenter som tar lång tid att göra sedan inte implementeras vilket innebär att man slösar mycket tid på den som inte kommer att finnas med i projektet.
+
+-	Fastnat i individuell prestation istället för att se till gruppens prestation. 
+Att vi inte refaktorerat i större utsträckning vilket hade underlättat coderewies avsevärt.  Att vi inte kört parkodning i större utsträckning för om vi hade det så hade kunskap spridits lättare bland gruppens.
+
+
+
+4.	Vad finns det för klippor och skär som vi måste undvika?
+
+-	Vi bör undvika att inte kunna vara med på möten, för risken att man inte hänger med i visionen av slutprodukten eller vilka andra problem som uppstår i processens gång.
+
+-	Jag kan känna att vissa saker har vi inte haft samma syn på designen och det har resulterat i att någon har gjort något som antigen inte används eller blivit ändrat vid ett senare skede. 
+
+-	Otydlighet av vad vi anser att vi har kvar att göra innan redovisningen.
+
+
+-	Vi måste upptäcka vad är det som gör att vi går på fel håll, vi måste känna det och prata med varandra .
+
+-	Undvika att jobba oeffektivt, undvika långa möte där 2 pratar och alla andra lyssnar.
+
+-	Undvika att få tidsbrist, inte göra saker i sista stund
+            Ineffektivt arbete. 
+
+
+
+5.	Vad behöver vi (mer) ta med oss på båten?
+
+-	Vi behöver bli ännu bättre på att fortsätta skriva user-stories och task i vårt SCRUM arbete. Det är bevisligen något som vi alla har fallerar med vår fokus kring ”själva” kodningen och organiseringen av våra uppsatta mål, som vi har i den talande/pratande planeringen, istället för den skriftliga.
+
+-	Samsyn, enkel kommunikation och effektiva möte. 
+
+-	Verktyg och plan för redovisning.
+
+-	Vi måste ha kommunikation med varandra och lära sig från varandra för att klara men viktigaste är kunskap och hur vi kan använda av det.kodreview också.
+
+-	Hjälpa till dem som inte förstår eller kan för att därefter de kommer kunna hjälpa oss. Alltså om man märker att en behöver hjälp eller inte har dom kunskaperna för att kunna klara uppdraget så hjälper man till.
+
+-	Bättre lojalitet i gruppen, bättre samarbetsförmåga, effektivare kunskapsspridning i projektet. Bättre tålamod, mindre stress, effektivare arbetssätt. Gjort rätt från början, egen reflektion av koden man skrivit, hur kan jag skriva koden bättre, mer komprimerat på ett minimalistiskt sätt utan att kompomisa med funktionaliteten
+
+
+
+Därefter berättar ni vad nu har skrivit, var och en utan att avbryta varandra. Finns det något som har kommit upp på retrospektivet som ni kan lära er av inför nästa sprint?
